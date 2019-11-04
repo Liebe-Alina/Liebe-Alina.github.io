@@ -4,7 +4,7 @@ SEOTitle: 晨阳的博客 | ChY Blog
 header-img: img/post-bg-desk.jpg
 email: Marvin.Wangcy@outlook.com
 description: "Live beautifully, dream passionately, love completely."
-keyword: "王晨阳, Chy Blog, 晨阳的博客, ChenyangWang, 邱柏荧, NLP, Python, DeepLearning, Machine Learning"
+keyword: "王晨阳, Chy Blog, 晨阳的博客, ChenyangWang, NLP, Python, DeepLearning, Machine Learning"
 url: "https://liebe-alina.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
